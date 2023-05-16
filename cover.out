@@ -1,6 +1,0 @@
-mode: atomic
-github.com/gopatchy/metadata/metadata.go:13.32,15.2 1 0
-github.com/gopatchy/metadata/metadata.go:17.37,19.2 1 1
-github.com/gopatchy/metadata/metadata.go:21.29,23.2 1 1
-github.com/gopatchy/metadata/metadata.go:25.41,27.2 1 1
-github.com/gopatchy/metadata/metadata.go:29.46,33.2 2 2
