@@ -3,7 +3,7 @@ module github.com/gopatchy/metadata
 go 1.19
 
 require (
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.3
 	go.uber.org/goleak v1.2.1
 )
 
